@@ -1,0 +1,6 @@
+COMMAND DOCUMENTATION
+
+    Program urlencode escapes stdin so it can be safely used in a HTTP URL
+    parameter.
+
+
